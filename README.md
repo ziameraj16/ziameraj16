@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Meraj
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Couchbase
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - ziameraj16@gmail.com
 
